@@ -3,7 +3,7 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 
 ## Tabla de contenido :card_index:
 
-- [Equipo expositor :page_facing_up:](#equipo-expositor)
+- [Equipo expositor :page_facing_up:](#equipo-expositor-computer)
 - [Material de exposición] (#)
 - [Ejemplo desarrollado :computer:](#run-locally-computer)
 
