@@ -6,7 +6,7 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 - [Equipo expositor :page_facing_up:](#equipo-expositor-computer)
 - [Material de exposición] (#)
 - [Ejemplo desarrollado :computer:](/PruebaJersey2)
-- [Fecha de exposición](#fecha-de-exposición-calendar)
+- [Fecha de exposición :calendar:](#fecha-de-exposición-calendar)
 
 <br>
 
