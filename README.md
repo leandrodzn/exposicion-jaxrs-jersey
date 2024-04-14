@@ -16,3 +16,5 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
   - GitHub: [Belen2708](https://github.com/Belen2708)
 - **Leandro Angel Dzib Nauat**
   - GitHub: [leandrodzn](https://github.com/leandrodzn)
+ 
+  - - [![GitHub](https://img.shields.io/badge/GitHub-juanperez-blue?style=flat&logo=github)](https://github.com/juanperez)
