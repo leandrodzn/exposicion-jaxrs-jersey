@@ -10,4 +10,9 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 <br>
 
 ## Equipo expositor :computer:
-
+- **Domingo Emmanuel Ciau Uc**
+  - GitHub: [EmanuelCiau](https://github.com/EmanuelCiau)
+- **María Belen Couoh Chan**
+  - GitHub: [Belen2708](https://github.com/Belen2708)
+- **Leandro Angel Dzib Nauat**
+  - GitHub: [leandrodzn](https://github.com/leandrodzn)
