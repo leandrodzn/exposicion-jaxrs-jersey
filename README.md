@@ -11,10 +11,10 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 
 ## Equipo expositor :computer:
 - **Domingo Emmanuel Ciau Uc**
-  - GitHub: [EmanuelCiau](https://github.com/EmanuelCiau)
+  - [![GitHub](https://img.shields.io/badge/GitHub-EmanuelCiau-pink?style=flat&logo=github)]([https://github.com/EmanuelCiau](EmanuelCiau))
+
 - **María Belen Couoh Chan**
-  - GitHub: [Belen2708](https://github.com/Belen2708)
+  - [![GitHub](https://img.shields.io/badge/GitHub-Belen2708-pink?style=flat&logo=github)]([https://github.com/Belen2708](https://github.com/Belen2708))
+
 - **Leandro Angel Dzib Nauat**
-  - GitHub: [leandrodzn](https://github.com/leandrodzn)
- 
-  - - [![GitHub](https://img.shields.io/badge/GitHub-juanperez-blue?style=flat&logo=github)](https://github.com/juanperez)
+  - [![GitHub](https://img.shields.io/badge/GitHub-leandrodzn-green?style=flat&logo=github)]([https://github.com/leandrodzn](https://github.com/leandrodzn))
