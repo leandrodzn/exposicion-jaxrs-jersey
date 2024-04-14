@@ -6,7 +6,7 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 - [Equipo expositor :page_facing_up:](#equipo-expositor-computer)
 - [Material de exposición] (#)
 - [Ejemplo desarrollado :computer:](/PruebaJersey2)
-- [Fecha de exposición](#fecha-de-exposición)
+- [Fecha de exposición](#fecha-de-exposición-calendar)
 
 <br>
 
@@ -20,5 +20,5 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 - **Leandro Angel Dzib Nauat**
   - [![GitHub](https://img.shields.io/badge/GitHub-leandrodzn-green?style=flat&logo=github)](https://github.com/leandrodzn)
  
-## Fecha de exposición
+## Fecha de exposición :calendar:
 15 de abril de 2024
