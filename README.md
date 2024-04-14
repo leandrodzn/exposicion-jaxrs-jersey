@@ -5,7 +5,7 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 
 - [Equipo expositor :page_facing_up:](#equipo-expositor-computer)
 - [Material de exposición] (#)
-- [Ejemplo desarrollado :computer:](#run-locally-computer)
+- [Ejemplo desarrollado :computer:](/PruebaJersey2)
 
 <br>
 
