@@ -4,7 +4,7 @@ Repositorio de la exposición de Sistemas Distribuidos con el tema de API REST c
 ## Tabla de contenido :card_index:
 
 - [Equipo expositor :page_facing_up:](#equipo-expositor-computer)
-- [Material de exposición] (/Diapositiva%20JAVA-JAXRS%20Jersey)
+- [Material de exposición](/Material)
 - [Ejemplo desarrollado :computer:](/PruebaJersey2)
 - [Fecha de exposición :calendar:](#fecha-de-exposición-calendar)
 
